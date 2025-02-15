@@ -7,7 +7,6 @@ import {
   Mail,
   User,
   X,
-  Plus,
   Pencil,
   Trash2,
 } from 'lucide-react';
